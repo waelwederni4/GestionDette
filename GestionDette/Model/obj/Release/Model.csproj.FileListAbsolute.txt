@@ -1,0 +1,6 @@
+E:\GestionDette\Model\bin\Release\Model.dll
+E:\GestionDette\Model\bin\Release\Model.pdb
+E:\GestionDette\Model\obj\Release\Model.csprojAssemblyReference.cache
+E:\GestionDette\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+E:\GestionDette\Model\obj\Release\Model.dll
+E:\GestionDette\Model\obj\Release\Model.pdb

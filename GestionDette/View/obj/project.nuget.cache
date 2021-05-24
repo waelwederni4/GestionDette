@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tISbMokdZ+hn1SUsKBRUjXCoX+o9xaAxg5t4nXCyMdgjIvS/LHw6H+Mr3r3u9xIeBW8yZtwEW/D1nTFwOlspA==",
+  "success": true,
+  "projectFilePath": "E:\\GestionDette\\View\\View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waelw\\.nuget\\packages\\csvhelper\\27.0.4\\csvhelper.27.0.4.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\guna.ui2.winforms\\2.0.1.4\\guna.ui2.winforms.2.0.1.4.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1449.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1449.0.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\microsoft.reportviewer.winforms.v12\\12.0.0.1\\microsoft.reportviewer.winforms.v12.12.0.0.1.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\waelw\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1449.0 dépend de Microsoft.SqlServer.Types (>= 14.0.0), mais Microsoft.SqlServer.Types 14.0.0 est introuvable. Une meilleure correspondance approximative de Microsoft.SqlServer.Types 14.0.314.76 a été résolue.",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}

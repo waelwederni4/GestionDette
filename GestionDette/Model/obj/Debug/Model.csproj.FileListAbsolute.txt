@@ -1,0 +1,5 @@
+E:\GestionDette\Model\bin\Debug\Model.dll
+E:\GestionDette\Model\bin\Debug\Model.pdb
+E:\GestionDette\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\GestionDette\Model\obj\Debug\Model.dll
+E:\GestionDette\Model\obj\Debug\Model.pdb

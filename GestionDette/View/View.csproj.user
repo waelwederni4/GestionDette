@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\GestionDette\View\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Acceuil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlertDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Caisse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CategorieList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashbord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Historique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImprimerFacture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LigneVenteList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MagazinFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MagazinInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Parametre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProduitAchat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProduitList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Produits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProduitVList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RecuFactureList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupprissionDonnee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ValideDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VenteList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

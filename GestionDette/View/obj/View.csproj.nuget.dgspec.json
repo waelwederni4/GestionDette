@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GestionDette\\View\\View.csproj": {}
+  },
+  "projects": {
+    "E:\\GestionDette\\Controleur\\Controleur.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\GestionDette\\Controleur\\Controleur.csproj",
+        "projectName": "Controleur",
+        "projectPath": "E:\\GestionDette\\Controleur\\Controleur.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\GestionDette\\Model\\Model.csproj": {
+                "projectPath": "E:\\GestionDette\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\GestionDette\\Model\\Model.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\GestionDette\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "E:\\GestionDette\\Model\\Model.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\GestionDette\\View\\View.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GestionDette\\View\\View.csproj",
+        "projectName": "View",
+        "projectPath": "E:\\GestionDette\\View\\View.csproj",
+        "packagesPath": "C:\\Users\\waelw\\.nuget\\packages\\",
+        "outputPath": "E:\\GestionDette\\View\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waelw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "E:\\GestionDette\\Controleur\\Controleur.csproj": {
+                "projectPath": "E:\\GestionDette\\Controleur\\Controleur.csproj"
+              },
+              "E:\\GestionDette\\Model\\Model.csproj": {
+                "projectPath": "E:\\GestionDette\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.0.4, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.1.4, )"
+            },
+            "Microsoft.ReportViewer.WinForms.v12": {
+              "target": "Package",
+              "version": "[12.0.0.1, )"
+            },
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1449.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
